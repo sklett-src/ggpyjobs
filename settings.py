@@ -12,7 +12,7 @@ DEBUG = False
 TEMPLATE_DEBUG = False
 
 ADMINS = (
-    ('David Joerg', 'dsjoerg@ggtracker.com'),
+    ('Soeren Klett', 'gggreplays@gmail.com'),
 )
 
 MANAGERS = ADMINS

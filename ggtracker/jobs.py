@@ -166,7 +166,7 @@ class ComputeStats():
       match_id = args['match_id']
 
       sc2reader_to_esdb = SC2ReaderToEsdb()
-      ggthost = 'ggtracker.com'
+      ggthost = 'gggreplays.com'
       blobenv = 'prod'
 
       if env == 'development':

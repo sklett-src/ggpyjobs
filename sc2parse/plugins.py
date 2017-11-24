@@ -941,7 +941,7 @@ def BaseTracker(replay):
         # Try to match this base to its build command
         # Try to register the base's ownership
 
-        # some strange event in http://ggtracker.com/matches/2720737/replay with a base with id 0.
+        # some strange event in http://gggreplays.com/matches/2720737/replay with a base with id 0.
         if base.id == 0:
             return
 
